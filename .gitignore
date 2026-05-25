@@ -32,7 +32,3 @@ next-env.d.ts
 /.claude/
 /personal/
 
-# standalone static files (not part of Next.js project)
-/avatar.jpg
-/embed.min.js
-/index.html
